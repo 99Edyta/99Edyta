@@ -12,6 +12,8 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+    <img alt="Wordpress" scr="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white" />
+
   
 </p>
 <!--
