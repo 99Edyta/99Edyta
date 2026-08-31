@@ -8,6 +8,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="chrome" src="https://img.shields.io/badge/Google%20Chrome-%234285F4.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white />
   
 </p>
 
