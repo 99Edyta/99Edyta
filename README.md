@@ -28,7 +28,7 @@
 <img alt="english" src="https://img.shields.io/badge/english-100000?style=for-the-badge&logo=english&logoColor=FFFFFF&labelColor=FFFFFF&color=0016FF" />
 </p>
 
-<h3> Contact me here </h3>
+<h3> Contact me here! </h3>
 <p>
   <a href="https://www.linkedin.com/in/edyta-amanda-brzezinska-1a11a2206/" >
     <img alt=linkedin" src="https://camo.githubusercontent.com/a42682eda8708e5667ab3f529aeb1f0d18393eab0339e640ce98e88eb98f975e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d50726f66696c652d7465616c2e737667" />
