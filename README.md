@@ -2,26 +2,28 @@
 
 <h3>When I code, I rely on</h3>
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="html5" src="https://camo.githubusercontent.com/4e39004843387226e83eaacfb24a8df02adb769152f2f7f3db1926cb04500f6d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" />
+  <img alt="Javascript" src="https://camo.githubusercontent.com/dc050359857b187d9f7a075b1a03dccb9606b32b30f3178a1ba5973ac17d1c08/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" />
+  <img alt="Bootstrap" src="https://camo.githubusercontent.com/ca067726efe8895a27cc9a95460e6cc0869d935513742a68c78c8c7f7fe436a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333835313146412e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" />
+  <img alt="TypeScript" src="https://camo.githubusercontent.com/68592fcb6016b11a73b775f35694b74d28d0f2f30feded7f5fe92f03aa405412/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" />
+  <img alt="css" src="https://camo.githubusercontent.com/a71c7f6a4380841423b7627a6b60f97f48c3804a0647a263b3282a8b04c7940c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373732d2532333636333339392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d637373266c6f676f436f6c6f723d7768697465" />
+  <img alt="Prettier" src="https://camo.githubusercontent.com/acaaab841e2bb3f91ada9b6b45e3aa8fc054a0018d5ed5733b2db182b02edfe3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70726574746965722d2532333139326133322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7072657474696572266c6f676f436f6c6f723d646335323461" />
   <img alt="chrome" src="https://camo.githubusercontent.com/8b798a1a794022627a0919c17b08442122ba1bb77042994830d3a9b654bb8e4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c652532304368726f6d652d2532333432383546342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d476f6f676c654368726f6d65266c6f676f436f6c6f723d7768697465" />
-
-
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="chrome" src="https://camo.githubusercontent.com/8b798a1a794022627a0919c17b08442122ba1bb77042994830d3a9b654bb8e4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c652532304368726f6d652d2532333432383546342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d476f6f676c654368726f6d65266c6f676f436f6c6f723d7768697465" />
+  <img alt="w3 schools" src="https://camo.githubusercontent.com/2af7f26498c0989358867c17d08364ddf4e668fc58b704673caa0bcfe43e90e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57332532305363686f6f6c732d2532333034414136442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d77337363686f6f6c73266c6f676f436f6c6f723d7768697465" />
+  <img alt="GitHub" src="https://camo.githubusercontent.com/800bad6e848cfe326ea2f1606bc3e7ab04aff9c1008e73c48b39a34a156c7f92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />
 </p>
 
 
 <h3> I also use </h3>
-<img alt="Adobe Photoshop" src="https://img.shields.io/badge/-adobe%20photoshop-30a8ff?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
-<img alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white" />
-<img alt="Figma" src="https://camo.githubusercontent.com/c4e6b82c2a3c179031f97d88bd940aabb2a626a8552fdb8a3feef5b4b572ea55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d2532334632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465 />
+<p>
+<img alt="Wordpress" src="https://camo.githubusercontent.com/148b2a986da0b4a829fbfd2f5743c9446fc8447a3ea54a2b3189f20df3ef1cbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576f726450726573732d2532333131374143392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d576f72645072657373266c6f676f436f6c6f723d7768697465" />
+<img alt="Figma" src="https://camo.githubusercontent.com/c4e6b82c2a3c179031f97d88bd940aabb2a626a8552fdb8a3feef5b4b572ea55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d2532334632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" />
+<img alt="adobe" src="https://camo.githubusercontent.com/7de13f0ee5b71cfe8e643ad64ee778ddd0c9344343a9e14f5e1d8e1482eb1edb/68747470733a2f2f613131796261646765732e636f6d2f62616467653f6c6f676f3d61646f6265" />
+</p>
+
+<h3> I speak these languages </h3>
+<p>
+  <img alt="polish" src="https://img.shields.io/badge/Polish-100000?style=for-the-badge&logo=Poland&logoColor=white&labelColor=black&color=FF0000" />
+  <img alt="danish" src="https://img.shields.io/badge/Danish-100000?style=for-the-badge&logo=Danish&logoColor=FF0000&labelColor=FF0000&color=FF0000" />
+<img alt="english" src="https://img.shields.io/badge/english-100000?style=for-the-badge&logo=english&logoColor=FFFFFF&labelColor=FFFFFF&color=0016FF" />
+</p>
